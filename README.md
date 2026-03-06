@@ -1,20 +1,20 @@
 <h1 align="center">Hi there, I'm Harshasri! 👋</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Computer%20Science%20Student;Upcoming%20SWE%20Summer%20Intern%20at%20Visa;Competitive%20Programmer;Passionate%20about%20Software%20Development&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Information%20Technology%20Student;Upcoming%20SWE%20Summer%20Intern%20at%20Visa;Competitive%20Programmer;Passionate%20about%20Software%20Development&center=true&width=500&height=45">
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-🌱 I’m currently improving my **Data Structures & Algorithms**, **AI/ML**, and **full-stack development skills**.
+🎓 Information Technology student interested in **Software Engineering and Problem Solving**.
 
-💡 I enjoy building projects that combine **software engineering and machine learning**.
+🌱 Currently improving my **Data Structures & Algorithms, AI/ML, and full-stack development skills**.
 
-🔍 I like exploring new technologies, solving coding problems, and contributing to interesting projects.
+💡 I enjoy building projects that combine **software development and machine learning**.
 
-🚀 Upcoming **Software Engineering Summer Intern at Visa**.
+🔍 I like exploring new technologies, solving coding problems, and working on innovative projects.
 
 ---
 
@@ -53,12 +53,12 @@
 
 ### 🏠 House Price Prediction
 
-Machine learning model to predict Bangalore house prices using **Linear Regression**.
+Machine learning model that predicts Bangalore house prices using **Linear Regression**.
 Built using **Python, Flask, Pandas, and Scikit-learn**.
 
 ### 🎓 Student Management System
 
-Full-stack web application to manage **students, departments, and enrollments**.
+Web application to manage **students, departments, and enrollments**.
 Built using **Flask, MongoDB, HTML, CSS, and JavaScript**.
 
 ---
@@ -67,7 +67,7 @@ Built using **Flask, MongoDB, HTML, CSS, and JavaScript**.
 
 ### 🐘 Elephant Detection System using IoT
 
-Developing an **IoT-based system** that detects elephant movement using sensors to help reduce **human-wildlife conflicts**.
+Developing an **IoT-based system** that detects elephant movement using sensors to help reduce **human–wildlife conflicts**.
 
 ---
 
@@ -79,38 +79,4 @@ Developing an **IoT-based system** that detects elephant movement using sensors 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Harshasri26&show_icons=true&theme=tokyonight">
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshasri26&layout=compact&theme=tokyonight">
-
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Harshasri26&theme=tokyonight&margin-w=10">
-
-</p>
-
----
-
-## 📈 LeetCode Stats
-
-<p align="center">
-
-<img src="https://leetcard.jacoblin.cool/harshzzzzz?theme=dark&font=baloo">
-
-</p>
-
----
-
-⭐ *Always learning, building, and improving.*
+⭐ Always learning, building, and improving.
