@@ -1,43 +1,37 @@
 ```markdown
 <div align="center">
 
-<img src="./assets/profile.gif" width="280"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Harshasri%20Kandukuri&fontSize=45&fontAlignY=35"/>
 
-<h1>Hi there, I'm Harshasri! 👋</h1>
-
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Information+Technology+Student;SWE+Summer+Intern+at+Visa;Competitive+Programmer;AI+%7C+ML+%7C+Full+Stack+Developer">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Information+Technology+Student;SWE+Summer+Intern+at+Visa;Competitive+Programmer;AI+%7C+ML+%7C+Full+Stack+Developer">
 
 </div>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Software%20Engineer%20in%20Progress&fontSize=35&fontAlignY=35"/>
-</p>
-
 ---
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 
-<img align="right" width="300" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-🎓 Information Technology student passionate about **Software Engineering and Problem Solving**.
+🎓 Information Technology student passionate about **Software Engineering, Artificial Intelligence, and Problem Solving**.
 
 💻 Interested in:
-- Artificial Intelligence
-- Machine Learning
+- Artificial Intelligence & Machine Learning
 - Full Stack Development
 - Data Structures & Algorithms
+- Software Engineering
 
-🌱 Currently improving my skills in **AI/ML, Backend Development, and Competitive Programming**.
+🌱 Currently improving my skills in **AI/ML, backend development, and competitive programming**.
 
-🚀 I enjoy building innovative solutions that solve real-world problems.
+🚀 I love building innovative projects that solve real-world problems.
 
-✨ Currently working as a **SWE Summer Intern at Visa**.
+💼 **SWE Summer Intern at Visa**
 
 <br>
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Languages and Tools
 
 <div align="center">
 
@@ -51,21 +45,23 @@
 
 ## 🐘 Elephant Detection System using IoT
 
-<img align="right" width="320" src="./assets/elephant-detection.gif">
+<div align="center">
 
-An **IoT-based wildlife monitoring system** designed to detect elephant movement using sensors and provide early warnings to reduce **human–wildlife conflicts**.
+<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="450">
+
+</div>
+
+An **IoT-based wildlife monitoring system** designed to detect elephant movement using sensors and help reduce **human–wildlife conflicts**.
 
 ### Features:
-- 🌳 Real-time movement detection
-- 📡 Sensor-based monitoring
+- 📡 Real-time sensor monitoring
+- 🐘 Elephant movement detection
 - 🚨 Early warning alerts
-- 🌍 Wildlife protection support
+- 🌳 Wildlife protection support
 
-### Tech Stack:
+**Tech Stack:**
 
 `IoT` `Sensors` `Python` `Embedded Systems`
-
-<br clear="right"/>
 
 ---
 
@@ -73,11 +69,11 @@ An **IoT-based wildlife monitoring system** designed to detect elephant movement
 
 A web application designed to manage:
 
-- Student records
+- Student information
 - Departments
 - Enrollments
 
-### Tech Stack:
+**Tech Stack:**
 
 `Flask` `MongoDB` `HTML` `CSS` `JavaScript`
 
@@ -87,9 +83,13 @@ A web application designed to manage:
 
 ## 💳 Amex Agent
 
-<img align="right" width="300" src="./assets/amex-agent.gif">
+<div align="center">
 
-Building a conversational AI agent that automates common card member service requests:
+<img src="https://media.giphy.com/media/5xaOcLDE64VMF4LqqrK/giphy.gif" width="450">
+
+</div>
+
+A conversational AI agent designed to automate common card member service requests such as:
 
 💳 Fee reversals  
 💳 Credit limit increases  
@@ -97,31 +97,14 @@ Building a conversational AI agent that automates common card member service req
 
 The system:
 
-✅ Resolves requests in a single interaction  
-✅ Maintains a verifiable audit trail  
-✅ Tracks every decision and action  
-✅ Provides complete context during human escalation  
+- ✅ Resolves common service requests in a single interaction
+- ✅ Maintains a verifiable audit trail of decisions and actions
+- ✅ Provides complete context during human escalation
+- ✅ Improves card member experience by reducing service friction
 
-The goal is to reduce friction in routine servicing and improve the overall card member experience.
-
-### Tech Stack:
+**Tech Stack:**
 
 `Python` `Flask` `AI/LLMs` `REST APIs`
-
-<br clear="right"/>
-
----
-
-# 🎥 Project Demonstrations
-
-<div align="center">
-
-| Project | Demo |
-|---|---|
-| 🐘 Elephant Detection IoT | ![](./assets/elephant-detection.gif) |
-| 💳 Amex Agent | ![](./assets/amex-agent.gif) |
-
-</div>
 
 ---
 
@@ -130,26 +113,30 @@ The goal is to reduce friction in routine servicing and improve the overall card
 <div align="center">
 
 <a href="https://leetcode.com/u/harshasri26/">
-<img src="https://img.shields.io/badge/LeetCode-Harshasri26-orange?style=for-the-badge&logo=leetcode">
+<img src="https://img.shields.io/badge/LeetCode-Harshasri26-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
 <a href="https://www.codechef.com/users/harshasri_2005">
-<img src="https://img.shields.io/badge/CodeChef-harshasri__2005-brown?style=for-the-badge&logo=codechef">
+<img src="https://img.shields.io/badge/CodeChef-harshasri__2005-brown?style=for-the-badge&logo=codechef"/>
 </a>
 
 <a href="https://github.com/Harshasri26">
-<img src="https://img.shields.io/badge/GitHub-Harshasri26-black?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-Harshasri26-black?style=for-the-badge&logo=github"/>
 </a>
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Harshasri26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Harshasri26&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshasri26&theme=tokyonight&hide_border=true"/>
 
 <br>
 
@@ -181,7 +168,7 @@ The goal is to reduce friction in routine servicing and improve the overall card
 
 <div align="center">
 
-## ⭐ Always learning, building, and improving.
+### ⭐ Always learning, building, and improving.
 
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="250">
 
