@@ -1,110 +1,168 @@
-# <h1 align="center">Hi there, I'm Harshasri! 👋</h1>
+# <div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Information%20Technology%20Student;SWE%20Summer%20Intern%20at%20Visa;Competitive%20Programmer;Passionate%20about%20Software%20Development&center=true&width=500&height=45">
-</p>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+
+# Hi there, I'm Harshasri! 👋
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Information+Technology+Student;SWE+Summer+Intern+at+Visa;Competitive+Programmer;AI+%7C+ML+%7C+Full+Stack+Developer">
+
+</div>
 
 ---
 
 ## 👩‍💻 About Me
 
-🎓 Information Technology student interested in **Software Engineering and Problem Solving**.
+<img align="right" width="300" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
-🌱 Currently improving my **Data Structures & Algorithms, AI/ML, and Full-Stack Development** skills.
+🎓 Information Technology student passionate about **Software Engineering and Problem Solving**.
 
-💡 I enjoy building projects that combine **software development and machine learning**.
+💻 Interested in:
 
-🔍 I like exploring new technologies, solving coding problems, and working on innovative projects.
+* Artificial Intelligence
+* Machine Learning
+* Full Stack Development
+* Data Structures & Algorithms
 
----
+🌱 Currently improving my skills in **AI/ML, Backend Development, and Competitive Programming**.
 
-## 🛠️ Languages and Tools I Use
-
-<p>
-
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript">
+🚀 I love building technology solutions that solve real-world problems.
 
 <br>
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3">
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap">
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask">
+---
 
-<br>
+# 🛠️ Tech Stack
 
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql">
+<div align="center">
 
-<br>
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css,bootstrap,flask,mongodb,mysql,git,github,vscode&perline=7"/>
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode">
-
-</p>
+</div>
 
 ---
 
-## 🚀 Projects I'm Proud Of
+# 🚀 Projects I'm Proud Of
 
-### 🐘 Elephant Detection System using IoT
+## 🐘 Elephant Detection System using IoT
 
-An **IoT-based system** that detects elephant movement using sensors to help reduce **human–wildlife conflicts**. The project focuses on real-time monitoring and early warning mechanisms to improve safety for both humans and wildlife.
+<img align="right" width="300" src="https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif">
 
-**Tech Stack:** IoT, Sensors, Python, Embedded Systems
+An **IoT-based wildlife monitoring system** designed to detect elephant movement using sensors and provide early warnings to reduce **human–wildlife conflicts**.
 
----
+The system focuses on:
 
-### 🎓 Student Management System
+* Real-time sensor monitoring
+* Movement detection
+* Automated alerts
+* Wildlife safety solutions
 
-A web application to manage **students, departments, and enrollments**.
+**Tech Stack:**
 
-Built using **Flask, MongoDB, HTML, CSS, and JavaScript**.
+`IoT` `Sensors` `Python` `Embedded Systems`
 
----
-
-## 🔭 Currently Working On
-
-### 💳 Amex Agent
-
-Building a conversational AI agent that automates common credit card service requests such as **fee reversals, credit limit increases, and replacement card orders** in a single interaction.
-
-The system maintains a **verifiable audit trail** of every decision and action taken, while providing seamless handoff to human agents with complete context whenever escalation is required.
-
-By reducing friction in routine servicing, the solution helps improve the overall card member experience and allows human agents to focus on complex cases.
-
-**Tech Stack:** Python, Flask, AI/LLMs, REST APIs
+<br clear="right"/>
 
 ---
 
-## 🌐 Coding Profiles
+## 🎓 Student Management System
 
-* **LeetCode:** https://leetcode.com/u/harshasri26/
-* **CodeChef:** https://www.codechef.com/users/harshasri_2005
-* **GitHub:** https://github.com/Harshasri26
+A web application to manage:
 
----
+✅ Students
+✅ Departments
+✅ Enrollments
 
-## 📊 GitHub Stats
+Built using:
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Harshasri26&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshasri26&theme=tokyonight&hide_border=true" width="48%">
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshasri26&layout=compact&theme=tokyonight&hide_border=true" width="45%">
-
-</p>
+`Flask` `MongoDB` `HTML` `CSS` `JavaScript`
 
 ---
 
-⭐ **Always learning, building, and improving.**
+# 🔭 Currently Working On
+
+## 💳 Amex Agent
+
+<img align="right" width="280" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+
+A conversational AI agent that automates common card member service requests including:
+
+💳 Fee reversals
+💳 Credit limit increases
+💳 Replacement card orders
+
+The system:
+
+✔ Resolves requests in a single interaction
+✔ Maintains a verifiable audit trail
+✔ Tracks decisions and actions
+✔ Provides complete context during human escalation
+
+The goal is to reduce friction in routine servicing and improve the overall card member experience.
+
+**Tech Stack:**
+
+`Python` `Flask` `AI/LLMs` `REST APIs`
+
+<br clear="right"/>
+
+---
+
+# 🌐 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/harshasri26/">
+<img src="https://img.shields.io/badge/LeetCode-Harshasri26-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://www.codechef.com/users/harshasri_2005">
+<img src="https://img.shields.io/badge/CodeChef-harshasri__2005-brown?style=for-the-badge&logo=codechef"/>
+</a>
+
+<a href="https://github.com/Harshasri26">
+<img src="https://img.shields.io/badge/GitHub-Harshasri26-black?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Harshasri26&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshasri26&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Harshasri26/Harshasri26/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+---
+
+# 👀 Profile Visitors
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Harshasri26&label=Profile%20Views&color=blue&style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Always learning, building, and improving.
+
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="250">
+
+</div>
