@@ -1,99 +1,92 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Harshasri%20Buddi&fontSize=50&fontColor=ffffff"/> <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&duration=2500&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Information+Technology+Student;SWE+Summer+Intern+at+Visa;Software+Engineer;AI+%7C+ML+Enthusiast;Problem+Solver"> <br> <img src="https://img.shields.io/badge/SWE%20Intern-Visa-blue?style=for-the-badge"/> <img src="https://img.shields.io/badge/Focus-Software%20Engineering-success?style=for-the-badge"/> <img src="https://img.shields.io/badge/Interest-AI%20%26%20ML-purple?style=for-the-badge"/> </div> <br>
-👩‍💻 About Me
-<table> <tr> <td width="60%">
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Harshasri%20Buddi&fontSize=60&fontColor=ffffff&animation=fadeIn"/> <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=SWE+Summer+Intern+at+Visa;Information+Technology+Student;Software+Developer;AI+%7C+ML+Enthusiast;Competitive+Programmer"> </div> <h2 align="center">👩‍💻 About Me</h2> <div align="center"> <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/coding.gif" width="350"> </div> <p align="center">
 
-🎓 Information Technology Student passionate about building impactful software solutions.
+🎓 Information Technology Student passionate about Software Engineering and Problem Solving.
 
-💼 SWE Summer Intern at Visa
+<br>
 
-I am interested in:
+💼 Currently working as a SWE Summer Intern at Visa
 
-• Software Engineering
-• Artificial Intelligence & Machine Learning
-• Full Stack Development
-• Data Structures & Algorithms
+<br>
 
-🌱 Currently improving my skills in:
+🌱 Exploring:
+<br>
+Artificial Intelligence • Machine Learning • Full Stack Development • Backend Systems
 
-• Backend Development
-• AI-powered applications
-• Competitive Programming
+<br>
 
-🚀 I enjoy solving real-world problems through technology.
+🚀 Building solutions that combine technology with real-world impact.
 
-</td> <td width="40%"> <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/coding.gif" width="300"> </td> </tr> </table> <br>
-🛠️ Technical Skills
-<div align="center"> <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,html,css,bootstrap,flask,mongodb,mysql,git,github,vscode,tensorflow,pytorch&perline=7"/> </div> <br>
-🚀 Projects
-🐘 Elephant Detection System using IoT
+</p> <h2 align="center">🚀 Projects</h2> <h3>🐘 Elephant Detection System using IoT</h3>
 
 An IoT-based wildlife monitoring system designed to detect elephant movement using sensors and help reduce human–wildlife conflicts.
 
-Key Features
+Features
 
 📡 Real-time sensor monitoring
 🐘 Elephant movement detection
 🚨 Automated alert generation
 🌳 Wildlife protection support
 
-Technologies Used
+Tech Stack
 
-IoT Sensors Python Embedded Systems
 
-<br>
-🎓 Student Management System
 
-A web application developed to efficiently manage:
 
-👨‍🎓 Student records
-🏢 Departments
-📚 Enrollments
 
-Technologies Used
 
-Flask MongoDB HTML CSS JavaScript
+<br> <h3>🎓 Student Management System</h3>
 
-<br>
-🔭 Currently Working On
-💳 Amex Agent
+A web application developed to manage student records, departments, and enrollments.
 
-A conversational AI agent designed to automate common card member service requests:
+Features
 
-💳 Fee reversals
-💳 Credit limit increases
-💳 Replacement card orders
+👨‍🎓 Student information management
+🏢 Department management
+📚 Enrollment tracking
 
-Key Capabilities
+Tech Stack
 
-⚡ Single interaction request resolution
-📋 Verifiable audit trail of every decision
-🤝 Complete context during human escalation
-✨ Improved card member servicing experience
 
-Technologies Used
 
-Python Flask AI/LLMs REST APIs
 
-<br>
-🌐 Coding Profiles
-<div align="center"> <a href="https://leetcode.com/u/harshasri26/"> <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="70"> </a>
 
-    
 
-<a href="https://www.codechef.com/users/harshasri_2005"> <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" width="70"> </a>
+<br> <h3>💳 Amex Agent (Currently Working On)</h3>
 
-    
+A conversational AI agent designed to automate common card member service requests.
 
-<a href="https://github.com/Harshasri26"> <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="70"> </a> </div> <br>
-📊 GitHub Statistics
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Harshasri26&show_icons=true&theme=tokyonight&hide_border=true"/>
+Problem
+
+Common requests like:
+
+Fee reversals
+Credit limit increases
+Replacement card orders
+
+can require unnecessary manual effort.
+
+Solution
+
+An AI-powered assistant that:
+
+⚡ Resolves requests in a single interaction
+📋 Maintains a verifiable audit trail
+🤝 Provides complete escalation context
+✨ Improves card member experience
+
+Tech Stack
+
+
+
+
+
+
+<h2 align="center">📈 Coding Profiles</h2> <div align="center"> <a href="https://leetcode.com/u/harshasri26/"> <img src="https://img.shields.io/badge/LeetCode-Harshasri26-orange?style=for-the-badge&logo=leetcode"> </a> <a href="https://www.codechef.com/users/harshasri_2005"> <img src="https://img.shields.io/badge/CodeChef-harshasri__2005-brown?style=for-the-badge&logo=codechef"> </a> <a href="https://github.com/Harshasri26"> <img src="https://img.shields.io/badge/GitHub-Harshasri26-black?style=for-the-badge&logo=github"> </a> </div> <h2 align="center">🛠️ Languages & Tools</h2> <div align="center"> <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,html,css,react,nodejs,express,flask,mongodb,mysql,git,github,vscode,androidstudio&perline=8"/> </div> <h2 align="center">📊 GitHub Stats</h2> <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Harshasri26&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshasri26&theme=tokyonight&hide_border=true"/> </div> <br>
-📫 Connect With Me
-<div align="center"> <a href="https://github.com/Harshasri26"> <img src="https://img.shields.io/badge/GitHub-Harshasri26-black?style=for-the-badge&logo=github"> </a> <a href="https://leetcode.com/u/harshasri26/"> <img src="https://img.shields.io/badge/LeetCode-Harshasri26-orange?style=for-the-badge&logo=leetcode"> </a> </div> <br> <div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=00C9FF&center=true&width=600&lines=Keep+Learning;Keep+Building;Keep+Growing">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshasri26&theme=tokyonight&hide_border=true"/>
 
-⭐ Always learning, building, and improving.
+<br><br>
 
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshasri26&layout=compact&theme=tokyonight&hide_border=true"/> </div> <h2 align="center">🤝 Connect With Me</h2> <div align="center"> <a href="https://github.com/Harshasri26"> <img src="https://skillicons.dev/icons?i=github" width="50"> </a> <a href="https://leetcode.com/u/harshasri26/"> <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="50"> </a> </div> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/> </div>
