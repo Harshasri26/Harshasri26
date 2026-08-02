@@ -1,92 +1,434 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Harshasri%20Buddi&fontSize=60&fontColor=ffffff&animation=fadeIn"/> <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=SWE+Summer+Intern+at+Visa;Information+Technology+Student;Software+Developer;AI+%7C+ML+Enthusiast;Competitive+Programmer"> </div> <h2 align="center">👩‍💻 About Me</h2> <div align="center"> <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/coding.gif" width="350"> </div> <p align="center">
+<div align="center">
 
-🎓 Information Technology Student passionate about Software Engineering and Problem Solving.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Harshasri%20Buddi&fontAlignY=38&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 
-<br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Software+Engineer+Intern+at+Visa;Information+Technology+Student;AI+%7C+Machine+Learning+Enthusiast;Competitive+Programmer;Full+Stack+Developer;Always+Learning+Something+New+🚀"/>
 
-💼 Currently working as a SWE Summer Intern at Visa
+<img src="https://komarev.com/ghpvc/?username=Harshasri26&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
 
-<br>
+</div>
 
-🌱 Exploring:
-<br>
-Artificial Intelligence • Machine Learning • Full Stack Development • Backend Systems
+---
 
-<br>
+# 👋 Hello, I'm Harshasri Buddi!
 
-🚀 Building solutions that combine technology with real-world impact.
+<img align="right" width="350" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/coding.gif">
 
-</p> <h2 align="center">🚀 Projects</h2> <h3>🐘 Elephant Detection System using IoT</h3>
+### 💫 About Me
 
-An IoT-based wildlife monitoring system designed to detect elephant movement using sensors and help reduce human–wildlife conflicts.
+🎓 Information Technology Student at **Vasavi College of Engineering**
 
-Features
+💼 **Software Engineer Intern @ Visa**
 
-📡 Real-time sensor monitoring
-🐘 Elephant movement detection
-🚨 Automated alert generation
-🌳 Wildlife protection support
+💡 Passionate about building scalable software and solving real-world problems.
 
-Tech Stack
+🌱 Currently learning
 
+- Artificial Intelligence
+- Machine Learning
+- Backend Engineering
+- System Design
+- LLM Agents
 
+💻 I enjoy creating applications that combine software engineering with AI.
 
+🏆 Competitive Programmer
 
+- LeetCode
+- CodeChef
+- Codeforces
 
+---
 
-<br> <h3>🎓 Student Management System</h3>
+# 🚀 Currently Working On
 
-A web application developed to manage student records, departments, and enrollments.
+- 💳 AI Agent for Card Member Services
+- 🤖 Generative AI Applications
+- ☁️ Cloud Technologies
+- 📈 Machine Learning Projects
+- 🧠 Daily DSA Practice
 
-Features
+---
 
-👨‍🎓 Student information management
-🏢 Department management
-📚 Enrollment tracking
+# 💼 Experience
 
-Tech Stack
+## Software Engineer Intern | Visa
 
+**May 2026 – Present**
 
+- Developing enterprise AI solutions.
+- Building intelligent automation using LLMs.
+- Working on scalable backend services.
+- Creating AI agents for customer support automation.
+- Improving workflow efficiency using modern software engineering practices.
 
+---
 
+# 🛠 Tech Stack
 
+## Languages
 
-<br> <h3>💳 Amex Agent (Currently Working On)</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,c,html,css" />
+</p>
 
-A conversational AI agent designed to automate common card member service requests.
+---
 
-Problem
+## Frontend
 
-Common requests like:
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,html,css,javascript,bootstrap" />
+</p>
 
-Fee reversals
-Credit limit increases
-Replacement card orders
+---
 
-can require unnecessary manual effort.
+## Backend
 
-Solution
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
+</p>
 
-An AI-powered assistant that:
+---
 
-⚡ Resolves requests in a single interaction
-📋 Maintains a verifiable audit trail
-🤝 Provides complete escalation context
-✨ Improves card member experience
+## Databases
 
-Tech Stack
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
+---
 
+## Tools
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman" />
+</p>
 
+---
 
+# 🚀 Featured Projects
 
-<h2 align="center">📈 Coding Profiles</h2> <div align="center"> <a href="https://leetcode.com/u/harshasri26/"> <img src="https://img.shields.io/badge/LeetCode-Harshasri26-orange?style=for-the-badge&logo=leetcode"> </a> <a href="https://www.codechef.com/users/harshasri_2005"> <img src="https://img.shields.io/badge/CodeChef-harshasri__2005-brown?style=for-the-badge&logo=codechef"> </a> <a href="https://github.com/Harshasri26"> <img src="https://img.shields.io/badge/GitHub-Harshasri26-black?style=for-the-badge&logo=github"> </a> </div> <h2 align="center">🛠️ Languages & Tools</h2> <div align="center"> <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,html,css,react,nodejs,express,flask,mongodb,mysql,git,github,vscode,androidstudio&perline=8"/> </div> <h2 align="center">📊 GitHub Stats</h2> <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Harshasri26&show_icons=true&theme=tokyonight&hide_border=true"/>
+---
 
-<br><br>
+## 🐘 Elephant Detection Using IoT
+
+### Overview
+
+An IoT-powered wildlife monitoring solution that detects elephant movement using sensors to reduce human-elephant conflicts.
+
+### Features
+
+- 📡 Real-time Monitoring
+- 🚨 Automated Alerts
+- 🛰 Sensor Integration
+- 🌳 Wildlife Protection
+
+### Tech Stack
+
+Python • Flask • IoT • HTML • CSS
+
+---
+
+## 🎓 Student Management System
+
+### Overview
+
+A web application for efficiently managing students, departments, enrollments, and academic records.
+
+### Features
+
+- Student Management
+- Department Management
+- Enrollment Tracking
+- CRUD Operations
+
+### Tech Stack
+
+Java • MySQL • HTML • CSS
+
+---
+
+## 💳 AI Card Member Agent (In Progress)
+
+### Problem
+
+Many customer requests like
+
+- Fee Reversal
+- Credit Limit Increase
+- Card Replacement
+
+still require manual intervention.
+
+### Solution
+
+An AI-powered conversational agent capable of
+
+- Resolving requests instantly
+- Maintaining audit logs
+- Providing escalation summaries
+- Improving customer experience
+
+### Technologies
+
+Python
+
+LangGraph
+
+LLMs
+
+FastAPI
+
+Vector Search
+
+---
+
+# 📊 What I Love
+
+```text
+💻 Software Engineering
+🤖 Artificial Intelligence
+📈 Machine Learning
+🌐 Full Stack Development
+⚡ Competitive Programming
+☁️ Cloud Computing
+```
+
+---
+
+# 🌟 Achievements
+
+🏅 Software Engineer Intern at Visa
+
+🏅 Strong interest in AI & Machine Learning
+
+🏅 Competitive Programmer
+
+🏅 Building impactful software solutions
+
+---
+
+# 📚 Currently Learning
+
+```python
+learning = [
+    "System Design",
+    "Large Language Models",
+    "LangGraph",
+    "Backend Development",
+    "Cloud",
+    "Docker",
+    "Kubernetes"
+]
+```
+
+---
+
+# 💡 Coding Philosophy
+
+```cpp
+while(!success)
+{
+    Learn();
+    Build();
+    Improve();
+    Repeat();
+}
+```
+
+> **"Building tomorrow's technology, one line of code at a time."**
+
+---
+
+# 🤝 Open To
+
+- Open Source Contributions
+- Software Engineering Opportunities
+- AI Projects
+- ML Collaborations
+- Hackathons
+- Research Projects
+
+---
+# 🌐 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/harshasri26/">
+<img src="https://img.shields.io/badge/LeetCode-Harshasri26-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/users/harshasri_2005">
+<img src="https://img.shields.io/badge/CodeChef-harshasri__2005-brown?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<a href="https://codeforces.com/profile/Harshasri26">
+<img src="https://img.shields.io/badge/Codeforces-Harshasri26-blue?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Harshasri26">
+<img src="https://img.shields.io/badge/GitHub-Harshasri26-black?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+# 📈 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harshasri26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshasri26&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshasri26&theme=tokyonight&hide_border=true"/>
 
-<br><br>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshasri26&layout=compact&theme=tokyonight&hide_border=true"/> </div> <h2 align="center">🤝 Connect With Me</h2> <div align="center"> <a href="https://github.com/Harshasri26"> <img src="https://skillicons.dev/icons?i=github" width="50"> </a> <a href="https://leetcode.com/u/harshasri26/"> <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="50"> </a> </div> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/> </div>
+---
+
+# 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshasri26&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Harshasri26&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&row=2&column=4"/>
+
+</div>
+
+---
+
+# 📋 GitHub Profile Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harshasri26&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harshasri26&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Harshasri26&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harshasri26&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Harshasri26&theme=tokyonight&utcOffset=5.5"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Harshasri26/Harshasri26/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 💻 My Workflow
+
+```text
+☕ Coffee
+   ↓
+📖 Learn
+   ↓
+💡 Think
+   ↓
+⌨️ Code
+   ↓
+🐞 Debug
+   ↓
+🚀 Deploy
+   ↓
+😄 Repeat
+```
+
+---
+
+# ⚡ Fun Facts
+
+- 💻 I enjoy solving algorithmic challenges.
+- 🤖 AI and Machine Learning fascinate me.
+- 🌍 I love building software with real-world impact.
+- 🚀 Every project is an opportunity to learn something new.
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Harshasri26">
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
+</a>
+
+<a href="https://leetcode.com/u/harshasri26/">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="55"/>
+</a>
+
+<a href="https://www.codechef.com/users/harshasri_2005">
+<img src="https://cdn.simpleicons.org/codechef/5B4638" width="55"/>
+</a>
+
+</div>
+
+---
+
+# 💬 Quote
+
+<div align="center">
+
+### *"Code. Learn. Build. Repeat."*
+
+### *"Turning ideas into intelligent software."*
+
+</div>
+
+---
+
+<div align="center">
+
+## ⭐ If you like my work, consider giving a star to my repositories!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&section=footer"/>
+
+</div>
