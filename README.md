@@ -1,6 +1,6 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Harshasri%20Buddi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/> <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=28&duration=2500&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Information+Technology+Student;SWE+Summer+Intern+at+Visa;Software+Developer;AI+%7C+ML+Enthusiast;Competitive+Programmer"> <br> <img src="https://img.shields.io/github/followers/Harshasri26?style=for-the-badge&logo=github&color=blue"> <img src="https://img.shields.io/github/stars/Harshasri26?style=for-the-badge&logo=github&color=yellow"> <img src="https://komarev.com/ghpvc/?username=Harshasri26&style=for-the-badge&color=brightgreen"> </div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Harshasri%20Buddi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/> <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=26&duration=2500&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Information+Technology+Student;SWE+Summer+Intern+at+Visa;Software+Developer;AI+%7C+ML+Enthusiast;Competitive+Programmer"> <br> <img src="https://img.shields.io/github/followers/Harshasri26?style=for-the-badge&logo=github&color=blue"> <img src="https://img.shields.io/github/stars/Harshasri26?style=for-the-badge&logo=github&color=yellow"> <img src="https://komarev.com/ghpvc/?username=Harshasri26&style=for-the-badge&color=brightgreen"> </div>
 👩‍💻 About Me
-<img align="right" width="320" src="https://media.giphy.com/media/2y98KScHKeaQM/giphy.gif">
+<img align="right" width="320" src="https://i.pinimg.com/originals/4c/8f/8e/4c8f8e0a9b3c9b3e4e6f8c9c7c6e5f1d.gif">
 
 🎓 Information Technology student passionate about Software Engineering, Artificial Intelligence, and Problem Solving.
 
@@ -9,7 +9,7 @@
 Artificial Intelligence & Machine Learning
 Full Stack Development
 Data Structures & Algorithms
-Building scalable software solutions
+Scalable Software Systems
 
 🌱 Currently improving my skills in:
 
@@ -19,7 +19,13 @@ Competitive Programming
 
 💼 SWE Summer Intern at Visa
 
-🚀 I enjoy creating technology solutions that solve real-world challenges.
+🚀 I enjoy building innovative solutions that solve real-world problems.
+
+<br clear="right"/>
+🛠️ Languages and Tools
+<div align="center"> <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,html,css,bootstrap,flask,mongodb,mysql,git,github,vscode,tensorflow,pytorch&perline=8"/> </div>
+🏆 GitHub Achievements
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Harshasri26&theme=tokyonight&no-frame=true&row=1&column=7"> </div>
 🚀 Featured Projects
 <div align="center">
 🐘 Elephant Detection System using IoT
@@ -75,7 +81,7 @@ Tech Stack:
 Python Flask AI/LLMs REST APIs
 
 🌐 Coding Profiles
-<div align="center"> <a href="https://leetcode.com/u/harshasri26/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="70"/> </a>
+<div align="center"> <a href="https://leetcode.com/u/harshasri26/"> <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="70"/> </a>
 
    
 
@@ -83,11 +89,11 @@ Python Flask AI/LLMs REST APIs
 
    
 
-<a href="https://github.com/Harshasri26"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="70"/> </a> </div>
+<a href="https://github.com/Harshasri26"> <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="70"/> </a> </div>
 📊 GitHub Analytics
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Harshasri26&show_icons=true&theme=tokyonight&hide_border=true"> <br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshasri26&theme=tokyonight&hide_border=true"> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshasri26&layout=compact&theme=tokyonight&hide_border=true"> </div>
-⭐ Let's Connect
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00C9FF&center=true&width=500&lines=Thanks+for+visiting+my+profile!;Keep+learning+%7C+Keep+building+%7C+Keep+growing"> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Harshasri26&show_icons=true&theme=tokyonight&hide_border=true"/> <br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshasri26&theme=tokyonight&hide_border=true"/> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshasri26&layout=compact&theme=tokyonight&hide_border=true"/> </div>
+✨ Let's Connect
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00C9FF&center=true&width=600&lines=Building+Projects;Learning+New+Technologies;Creating+Impact+Through+Code"> </div>
 <div align="center">
 
 ⭐ Always learning, building, and improving.
